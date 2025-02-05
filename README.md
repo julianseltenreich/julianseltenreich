@@ -1,0 +1,53 @@
+👋 ¡Hola! Soy Julian Seltenreich  
+
+💻 **Desarrollador en formación**  
+
+---
+
+🚀 Sobre mí  
+
+🖥️ Estudiante de Tecnicatura en Desarrollo Web  
+
+📚 Trabajo en proyectos de gestión y automatización  
+
+🎨 Me interesa la estética y la usabilidad en el desarrollo web  
+
+---
+
+🎯 Objetivos  
+
+🔹 Mejorar en backend y estructuras de datos  
+🔹 Profundizar en experiencia de usuario (UX)  
+🔹 Conseguir experiencia laboral en desarrollo web  
+
+---
+
+🛠 Tecnologías y herramientas  
+
+📌 Lenguajes  
+- Python  
+- JavaScript  
+- SQL  
+- HTML5  
+- CSS3  
+- JSON  
+
+🔧 Herramientas y frameworks  
+- Git  
+- VS Code  
+- Figma  
+
+---
+
+☕ Más sobre mí  
+Además de programar, también soy barista   
+Si no estoy escribiendo código, probablemente esté preparando un buen café o ajustando detalles visuales en algún proyecto.  
+
+---
+
+📫 Contacto  
+Si querés charlar sobre desarrollo o diseño, podés encontrarme en:
+
+📧 Email: [seltenreichjulian@gmail.com](mailto:seltenreichjulian@gmail.com)  
+🐙 GitHub: [github.com/julianseltenreich](https://github.com/julianseltenreich)  
+💼 LinkedIn: [linkedin.com/in/julianseltenreich](https://www.linkedin.com/in/julianseltenreich)  
